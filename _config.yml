@@ -1,7 +1,7 @@
 # Site settings
 title:BYZ Blog                #博客的标题
 SEOTitle: BYZ Blog
-header-img:./img/5879
+header-img:img/5879.jpg
 email: 1595924177@qq.com
 description:'BYZ Blog'
 keyword:'BYZ, BYZ Blog,JS,css'
@@ -11,4 +11,4 @@ baseurl:''
 # Sidebar settings
 sidebar:true
 sidebar-about-description: "好好学习，天天向上"
-sidebar-avatar：./img/5879
+sidebar-avatar：img/5879.jpg
