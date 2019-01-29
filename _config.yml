@@ -1,14 +1,14 @@
 # Site settings
-title:BYZ Blog                #博客的标题
-SEOTitle: BYZ Blog
-header-img:img/5879.jpg
+title: BY Blog
+SEOTitle: 柏荧的博客 | BY Blog
+header-img: img/5879.jpg
 email: 1595924177@qq.com
-description:'BYZ Blog'
-keyword:'BYZ, BYZ Blog,JS,css'
-url:'https://biyongzhi.github.io'
-baseurl:''
+description: "Every failure is leading towards success."
+keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+url: "http://biyongzhi.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
-sidebar:true
-sidebar-about-description: "好好学习，天天向上"
-sidebar-avatar：img/5879.jpg
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: /img/5879.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
